@@ -1,0 +1,1 @@
+🔐️📡️🛢️🌐️ The official source repository for the website of the FreeGenie project, a  project about finding and freeing people being locked up against their will, using a custom database and activism toolkit. Inspired by the story of the feral child Genie
